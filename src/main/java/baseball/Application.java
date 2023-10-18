@@ -10,7 +10,7 @@ public class Application {
     protected static List<Integer> computerNumber = getComputerNumber();
 
     public static void main(String[] args) {
-        // TODO: 프로그램 구현
+
     }
 
     public static List<Integer> getComputerNumber() {
